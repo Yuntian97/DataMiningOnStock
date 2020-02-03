@@ -1,0 +1,51 @@
+Q1: Stocks with most similar behavior:
+MSFT and TMUS
+with euclidean distance: 0.7060640653737135
+
+Stocks with least similar behavior:
+VZ and S
+with euclidean distance: 2.4307033401063562
+
+
+Q2: Stocks with most similar behavior:
+CSCO and MSFT
+with corralation coefficient: 0.9155120049566994
+
+Stocks with least similar behavior:
+GOOG and JNPR
+with corralation coefficient: 0.013509079369215445
+
+
+Q3: Least Square Fit Line and Recommendation
+Stock INTC has close price 51.59 and predict price 50.48731951807227
+Recommendation: SELL, with percentage difference -0.02137391901391228
+
+Stock MSFT has close price 141.34 and predict price 130.64058313253014
+Recommendation: SELL, with percentage difference -0.07569985048443373
+
+Stock CSCO has close price 56.53 and predict price 56.87103710843372
+Recommendation: HOLD, with percentage difference 0.006032851732420257
+
+Stock AAPL has close price 207.74 and predict price 182.77837108433732
+Recommendation: SELL, with percentage difference -0.1201580288613781
+
+Stock AMZN has close price 1943.05 and predict price 1821.7334050216868
+Recommendation: SELL, with percentage difference -0.062436167354578166
+
+Stock GOOG has close price 1250.41 and predict price 1124.6762103999997
+Recommendation: SELL, with percentage difference -0.10055404995161615
+
+Stock JNPR has close price 26.68 and predict price 26.33472096385542
+Recommendation: SELL, with percentage difference -0.012941493108867263
+
+Stock VZ has close price 57.08 and predict price 58.336168674698776
+Recommendation: BUY, with percentage difference 0.022007159682879775
+
+Stock T has close price 34.15 and predict price 31.545816867469874
+Recommendation: SELL, with percentage difference -0.07625719275344435
+
+Stock S has close price 7.99 and predict price 6.6197937349397575
+Recommendation: SELL, with percentage difference -0.17149014581479882
+
+Stock TMUS has close price 84.25 and predict price 76.80464385542167
+Recommendation: SELL, with percentage difference -0.08837217975760625
